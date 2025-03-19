@@ -10,7 +10,7 @@
 
 * Flex-box
 
-## Hecho por:
+## Hecho por: Christopher Schiefelbein y alura
 
 ###Ana García
 
